@@ -1,0 +1,23 @@
+# What I Learnt From This Task
+
+* CSV + AI = instant dashboards: Learned to upload vehicle CSV data into Claude and generate a full HTML dashboard with zero code.
+
+* Data visualization on autopilot: Claude built KPI cards, SVG gauges, fuel comparison charts, and maintenance cost breakdowns from raw data.
+
+* Fuel economics analysis: Got E85 vs Petrol break-even calculations, cost-per-km, and environmental impact metrics auto-calculated.
+
+* One prompt, full app: The Vehicle Cost Analysis prompt turned CSV rows into an interactive HTML file I can open in any browser.
+
+* Actionable insights: Dashboard highlighted total ownership cost, fuel efficiency trends, and where I’m overspending on maintenance.
+
+# Tools Used
+
+* Claude AI - Vehicle Cost Analysis Dashboard prompt, HTML + SVG generation
+
+* CSV dataset - Vehicle data from Google Drive for fuel, maintenance, mileage
+
+* Browser - Open and test generated HTML dashboard locally
+
+* Git + GitHub - Day17 folder, day17.md, HTML file, screenshots, commit & push
+
+* Screenshot tool - Capture KPI cards, charts, gauges, break-even analysis.
